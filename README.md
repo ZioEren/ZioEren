@@ -1,5 +1,5 @@
 ![Hi](https://image.noelshack.com/fichiers/2020/35/5/1598601380-tenor.gif)
-## 👋 Hi! I am an Italian developer and I am a reverse engineer and backend developer.
+## 👋 Hi! I am a reverse engineer and backend Italian developer.
 ### - 🖥️ I know C#, C++, PHP, Assembly, Visual Basic and Lua. I can do reverse engineering and some game hacking.
 ### - ☠️ I publish exploits and bugs of Discord and more other platforms (games included).
 ### - 💎 My discord: ZioEren#1337
