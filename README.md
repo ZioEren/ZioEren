@@ -1,8 +1,8 @@
 ![Hi](https://image.noelshack.com/fichiers/2020/35/5/1598601380-tenor.gif)
 ## 👋 Hi! I am a reverse engineer and backend Italian developer.
-### - 🖥️ I know C#, C++, PHP, Assembly, Java, Visual Basic and Lua. I can do reverse engineering and some game hacking.
-### - 🌱 I am currently learning Node.js, memory anti dump/anti modify protections, advanced C++ things, compiler & interpreters, and more.
-### - ☠️ I publish exploits and bugs of games and other platforms.
+### - 🖥️ I can work with C# and Visual Basic.
+### - 🌱 I'm currently learning interpreters.
+### - 💻 I'm currently working on ValLang.
 ### - 💎 My discord: ZioEren#1337
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZioEren&layout=compact" alt="ZioEren" /></p>
