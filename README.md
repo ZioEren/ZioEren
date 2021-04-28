@@ -3,7 +3,7 @@
 ### - 🖥️ I can work with C# and Visual Basic.
 ### - 🌱 I'm currently learning interpreters.
 ### - 💻 I'm currently working on ValLang.
-### - 💎 My discord: ZioEren#1337
+### - 💎 My discord: nullable#4120
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZioEren&layout=compact" alt="ZioEren" /></p>
 
